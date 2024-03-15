@@ -2,11 +2,9 @@
 ### Full-Stack, Mobile, Robotics, Microcontrollers, Simulation
 <b>Greater Toronto Area, Ontario</b>
 <br></br>
-
-<h2>Bio</h2>
+<h2>Biography</h2>
 Hi, my name is Abdur-Rahman Rana, I am currently a student at Appleby College and have been programming for nearly 5 years. I have experience in numerous areas including full-stack and mobile development, robotics programming for Vex Robotics team 540W, Arduino micrcontrollers and various simulators. Feel free to look at my repos for the various things I've been involved in.
 
-[![Abdur-Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrana16)](https://github.com/arrana16/github-readme-stats)
 <!--
 **arrana16/arrana16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
