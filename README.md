@@ -6,14 +6,14 @@
 Hi, my name is Abdur-Rahman Rana, I am currently a student at Appleby College and have been programming for nearly 5 years. I have experience in numerous areas including full-stack and mobile development, robotics programming for Vex Robotics team 540W, Arduino micrcontrollers and various simulators. Feel free to look at my repos for the various things I've been involved in.
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=FF)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=FF)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=FF)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=FF)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=FF)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift&logoColor=FF)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=FF)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
 
 ### Frameworks
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=FF)
