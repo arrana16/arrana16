@@ -24,8 +24,16 @@ Hi, my name is Abdur-Rahman Rana, I am currently a student at Appleby College an
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV&logoColor=5C3EE8)
 
 ### Platforms
+![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=FF)
+![PostMan](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=FFFFFF)
 ![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-000?&logo=DigitalOcean&logoColor=0080FF)
-![Digital Ocean](https://img.shields.io/badge/-VS%nbspCode-000?&logo=React&logoColor=0080FF)
+![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=Visual-Studio-Code&logoColor=007ACC)
+![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=Xcode&logoColor=147EFB)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=IntelliJ-Idea&logoColor=FF)
+
+
+
 <!--
 **arrana16/arrana16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
