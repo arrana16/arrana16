@@ -18,10 +18,10 @@ Hi, my name is Abdur-Rahman Rana, I am currently a student at Appleby College an
 ### Frameworks
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=FF)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express&logoColor=FF)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=FF)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=FF)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000?&logo=Swift&logoColor=FF)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV&logoColor=FF)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV&logoColor=5C3EE8)
 
 ### Platforms
 
