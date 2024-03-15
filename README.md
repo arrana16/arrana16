@@ -1,5 +1,5 @@
 # Abdur-Rahman Rana
-### Full-Stack, Mobile, Robotics, Microcontrollers, Simulation</h2>
+### Full-Stack, Mobile, Robotics, Microcontrollers, Simulation
 <b>Greater Toronto Area, Ontario</b>
 <lr></lr>
 
