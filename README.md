@@ -1,6 +1,6 @@
 # Abdur-Rahman Rana
-## Full-Stack, Mobile, IoT, Microcontrollers, Simulation
-## Greater Toronto Area, Ontario
+### Full-Stack, Mobile, IoT, Microcontrollers, Simulation
+<b>Greater Toronto Area, Ontario</b>
 
 <!--
 **arrana16/arrana16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
