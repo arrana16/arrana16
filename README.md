@@ -25,7 +25,7 @@ Hi, my name is Abdur-Rahman Rana, I am currently a student at Appleby College an
 
 ### Platforms
 ![Digital Ocean](https://img.shields.io/badge/-React-000?&logo=React&logoColor=0080FF)
-![VS Code](https://img.shields.io/badge/-VS Code-000?&logo=Visual Studio Code&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/-VS-Code-000?&logo=Visual Studio Code&logoColor=007ACC)
 <!--
 **arrana16/arrana16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
