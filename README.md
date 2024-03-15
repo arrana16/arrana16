@@ -10,7 +10,7 @@ Hi, my name is Abdur-Rahman Rana, I am currently a student at Appleby College an
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=FF)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=FF)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=FF)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=FF)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift&logoColor=FF)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
