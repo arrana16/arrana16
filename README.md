@@ -1,5 +1,5 @@
-#Abdur-Rahman Rana
-###Full-Stack, Mobile, IoT, Microcontrollers, Simulation</h2>
+# Abdur-Rahman Rana
+### Full-Stack, Mobile, IoT, Microcontrollers, Simulation</h2>
 <b>Greater Toronto Area, Ontario</b>
 <lr></lr>
 
