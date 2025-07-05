@@ -63,5 +63,5 @@ Created a **motion profiling generation and PID control system** for the VEX Rob
 
 ## 📫 Let’s Connect
 - 📧 Email: arana85@gatech.edu
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdurrahmanrana)
+- 🔗 [LinkedIn](www.linkedin.com/in/abdur-rahman-rana-3b910928b)
 - 🐦 [X/Twitter](https://x.com/durrana16?s=21)
