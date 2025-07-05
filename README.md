@@ -1,10 +1,5 @@
 # Abdur-Rahman Rana
 
-### Full-Stack, Cloud, Mobile, Robotics | CS @ Georgia Tech  
-📍 Atlanta, GA  
-
----
-
 ## 👋 About Me
 Hi, I’m **Abdur-Rahman Rana**, a Computer Science student at **Georgia Tech**, passionate about building meaningful software and solving complex engineering problems. Over the past few years, I’ve worked on projects spanning **full-stack development**, **mobile apps**, **robotics control systems**, and **cloud platforms**. Whether it’s building intuitive user experiences, optimizing algorithms for motion control, or developing AI-powered systems, I enjoy bringing ideas to life through code.
 
