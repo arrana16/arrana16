@@ -10,7 +10,7 @@ Hi, I’m **Abdur-Rahman Rana**, a Computer Science student at **Georgia Tech**,
 ### [unGateKeep](https://github.com/arrana16/unGateKeep) *(In Development)*  
 More Info Coming Soon.
 
-### [Elapse](https://github.com/arrana16/elapse)  
+### [Elapse](https://github.com/elapse-app/elapse)  
 Developed a VEX Robotics app that replaced legacy tools for tournament management, reaching 2000+ users with optimized caching and seamless Firebase-powered coordination.
 
 ### [Connect-Ed](https://github.com/Connect-Ed-Devs/connect_ed_2)  
