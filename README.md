@@ -16,9 +16,6 @@ Developed a VEX Robotics app that replaced legacy tools for tournament managemen
 ### [Connect-Ed](https://github.com/Connect-Ed-Devs/connect_ed_2)  
 Built a school portal used by 900+ students, delivering 20x faster schedules and centralized sports data through a Node.js + MySQL backend and Flutter frontend.
 
-### [Motion Profiling for V5RC](https://github.com/arrana16/V5RC-Motion-Profiling)
-Created a **motion profiling generation and PID control system** for the VEX Robotics platform. Developed parametric Bézier curve generation tools in Python, with C++ PID loops for real-world execution, optimizing velocity and acceleration profiles for competitive autonomous runs.
-
 ---
 
 ## 🛠️ Tech Stack
