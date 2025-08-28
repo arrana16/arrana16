@@ -16,6 +16,15 @@ Developed a VEX Robotics app that replaced legacy tools for tournament managemen
 ### [Connect-Ed](https://github.com/Connect-Ed-Devs/connect_ed_2)  
 Built a school portal used by 900+ students, delivering 20x faster schedules and centralized sports data through a Node.js + MySQL backend and Flutter frontend.
 
+
+### [Bench Press Performance Tracker](https://github.com/arrana16/Apple-Watch-Motion-Tracking)
+
+Created an Apple Watch app with SwiftUI and 800 Hz motion polling to measure velocity and power, paired with a Python + NumPy analysis pipeline that extracts peak performance metrics to optimize training efficiency.
+
+### [Spline-Based Motion Profiling for V5RC](https://github.com/arrana16/V5RC-Motion-Profiling)
+
+Developed a spline-based motion profiling algorithm in Python and C++ that improved autonomous routine efficiency by 80%, using NumPy and Matplotlib for parametric path planning and PID control loops for precise execution.
+
 ---
 
 ## 🛠️ Tech Stack
