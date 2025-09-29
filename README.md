@@ -7,6 +7,9 @@ Hi, I’m **Abdur-Rahman Rana**, a Computer Science student at **Georgia Tech**,
 
 ## 🚀 Featured Projects
 
+### [Iris](https://github.com/Magnolia-Creative/Iris-Initial)
+Built Iris, a Swift + Rust powered AI video editing engine that integrates a real-time timeline state machine with GPU-accelerated compute for frame analysis. Designed to feel like “Cursor for video,” it enables intuitive, high-performance editing with a lightweight, modular architecture.
+
 ### [unGateKeep](https://github.com/arrana16/unGateKeep)
 Built unGateKeep, a fashion discovery platform leveraging vector search and AI clothing detection, enabling seamless outfit sharing and exploration with Auth0 authentication and AWS deployment.
 
@@ -15,11 +18,6 @@ Developed a VEX Robotics app that replaced legacy tools for tournament managemen
 
 ### [Connect-Ed](https://github.com/Connect-Ed-Devs/connect_ed_2)  
 Built a school portal used by 900+ students, delivering 20x faster schedules and centralized sports data through a Node.js + MySQL backend and Flutter frontend.
-
-
-### [Bench Press Performance Tracker](https://github.com/arrana16/Apple-Watch-Motion-Tracking)
-
-Created an Apple Watch app with SwiftUI and 800 Hz motion polling to measure velocity and power, paired with a Python + NumPy analysis pipeline that extracts peak performance metrics to optimize training efficiency.
 
 ### [Spline-Based Motion Profiling for V5RC](https://github.com/arrana16/V5RC-Motion-Profiling)
 
