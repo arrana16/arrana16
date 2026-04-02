@@ -14,7 +14,7 @@ Built Iris, a Swift + Rust powered AI video editing engine that integrates a rea
 Built unGateKeep, a fashion discovery platform leveraging vector search and AI clothing detection, enabling seamless outfit sharing and exploration with Auth0 authentication and AWS deployment.
 
 ### [Elapse](https://github.com/elapse-app/elapse)  
-Developed a VEX Robotics app that replaced legacy tools for tournament management, reaching 2000+ users with optimized caching and seamless Firebase-powered coordination.
+Developed a VEX Robotics app that replaced legacy tools for tournament management, reaching 3500+ users with optimized caching and seamless Firebase-powered coordination.
 
 ### [Connect-Ed](https://github.com/Connect-Ed-Devs/connect_ed_2)  
 Built a school portal used by 900+ students, delivering 20x faster schedules and centralized sports data through a Node.js + MySQL backend and Flutter frontend.
