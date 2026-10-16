@@ -12,7 +12,7 @@ Built Iris, a native iOS video editor for natural-language editing, transcript-a
 
 - [Frontend](https://github.com/Magnolia-Creative/Iris-Main) · [Backend](https://github.com/Magnolia-Creative/Iris-Backend)
 
-### [Brian](https://devpost.com/software/brian-vuscez)
+### [Brian](https://github.com/SanjoyDat1/Brian)
 Built a shared knowledge system for humans and AI agents, with semantic search, a graph-based knowledge interface, and an MCP server for coding tools.
 
 ### [Elapse](https://github.com/elapse-app/elapse)  
