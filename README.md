@@ -16,7 +16,7 @@ Built Iris, a native iOS video editor for natural-language editing, transcript-a
 Built a shared knowledge system for humans and AI agents, with semantic search, a graph-based knowledge interface, and an MCP server for coding tools.
 
 ### [Elapse](https://github.com/elapse-app/elapse)  
-Developed a VEX Robotics app that replaced legacy tools for tournament management, reaching 3500+ users with optimized caching and seamless Firebase-powered coordination.
+Developed a VEX Robotics app that replaced legacy tools for tournament management, reaching 4000+ users with optimized caching and seamless Firebase-powered coordination.
 
 ### [Connect-Ed](https://github.com/Connect-Ed-Devs/connect_ed_2)  
 Built a school portal used by 900+ students, delivering 20x faster schedules and centralized sports data through a Node.js + MySQL backend and Flutter frontend.
