@@ -38,6 +38,7 @@ Developed a spline-based motion profiling algorithm in Python and C++ that impro
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
 ### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=Spring)
@@ -45,6 +46,8 @@ Developed a spline-based motion profiling algorithm in Python and C++ that impro
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000?&logo=Swift)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 
