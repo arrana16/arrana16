@@ -7,11 +7,13 @@ Hi, I’m **Abdur-Rahman Rana**, a Computer Science student at **Georgia Tech**,
 
 ## 🚀 Featured Projects
 
-### [Iris](https://github.com/Magnolia-Creative/Iris-Initial)
-Built Iris, a Swift + Rust powered AI video editing engine that integrates a real-time timeline state machine with GPU-accelerated compute for frame analysis. Designed to feel like “Cursor for video,” it enables intuitive, high-performance editing with a lightweight, modular architecture.
+### Iris
+Built Iris, a native iOS video editor for natural-language editing, transcript-aware workflows, semantic media search, and realtime voice input.
 
-### [unGateKeep](https://github.com/arrana16/unGateKeep)
-Built unGateKeep, a fashion discovery platform leveraging vector search and AI clothing detection, enabling seamless outfit sharing and exploration with Auth0 authentication and AWS deployment.
+- [Frontend](https://github.com/Magnolia-Creative/Iris-Main) · [Backend](https://github.com/Magnolia-Creative/Iris-Backend)
+
+### [Brian](https://devpost.com/software/brian-vuscez)
+Built a shared knowledge system for humans and AI agents, with semantic search, a graph-based knowledge interface, and an MCP server for coding tools.
 
 ### [Elapse](https://github.com/elapse-app/elapse)  
 Developed a VEX Robotics app that replaced legacy tools for tournament management, reaching 3500+ users with optimized caching and seamless Firebase-powered coordination.
